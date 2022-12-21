@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @onuralpavci
-- 👀 I’m interested in mobile and web development.
-- 🌱 I’m currently working as an Android Developer at PeraWallat.
-- 💞️ I’m looking to collaborate on any thing.
+- 👀 I’m interested in mobile and blockchain development.
+- 🌱 I’m currently working as an Android Developer at Pera Wallet.
 - 📫 How to reach me onuralpavci0@gmail.com
 
 <!---
