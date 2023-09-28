@@ -19,7 +19,7 @@
 </p>
 </br>
 
-As an experienced Android developer, I possess a deep understanding of the latest technologies and development frameworks, including MVVM, Clean Architecture, Coroutines, Retrofit, Room, Hilt, Glide, Jetpack, and more. My expertise in UI/UX design, performance optimization, and problem-solving allows me to develop high-quality apps that meet the needs of end-users. With excellent communication skills, I work collaboratively with cross-functional teams to ensure project success.
+As an experienced Android developer, I possess in-depth knowledge of modern development frameworks like MVVM, MVI, Clean Architecture, and Jetpack, and I excel in technologies such as Coroutines, Retrofit, Room, Hilt, Glide, and Compose. My expertise extends to UI/UX design, performance optimization, and problem-solving, enabling me to create high-quality apps that cater to end-users' needs. I'm skilled in software testing, including unit testing, UI testing, and instrumented testing, ensuring code reliability and excellent user experiences. With excellent communication skills, I collaborate effectively with cross-functional teams to ensure project success.
 
 📫 How to reach me onuralpavci0@gmail.com
 
