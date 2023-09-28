@@ -23,8 +23,6 @@ As an experienced Android developer, I possess a deep understanding of the lates
 
 📫 How to reach me onuralpavci0@gmail.com
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=onuralpavci&count_private=true&show_icons=true&theme=highcontrast)
-
 
 <!---
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emrekizil&show_icons=true&locale=en" alt="emrekizil" /></p>
