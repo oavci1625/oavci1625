@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Onuralp</h1>
 <h3 align="center">
-🤖 Android Developer at FairMoney
+🤖 Android Developer at Trendyol
 </h3>
 
 <h3 align="center">Languages and Tools</h3>
